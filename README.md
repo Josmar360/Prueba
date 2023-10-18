@@ -1,10 +1,10 @@
 # Presentación
 
-El siguiente proyecto es un repositorio integral de **diseño y desarrollo de una base de datos diseñada para satisfacer las necesidades específicas de 'Tintorería Aries'**. Este proyecto incluye elementos clave, desde la **estructura de la base de datos** hasta dos **métodos de conexión y un sistema de bitácora.** Cada aspecto ha sido diseñado meticulosamente para garantizar una solución efectiva y eficiente que contribuye al éxito de 'Tintorería Aries'.
+Este repositorio alberga el **diseño inicial y la primera versión del desarrollo de un sitio web** destinado al **Planetario Luis Enrique Erro del Instituto Politécnico Nacional (IPN).** El **propósito de este sitio web es proporcionar información acerca del servicio social** y, además, **visualizar las horas de servicio** de cada miembro del equipo de servicio social (es importante destacar que en esta primera versión, las horas aún no se encuentran disponibles).
 
-<h1 align="center"> Sistema de Registro de Alumnos </h1>
+<h1 align="center"> Página Web del Planetario Luis Enrique Erro para Servicio Social </h1>
 <p align="center"> Pantalla principal de la interfaz </p>
-<p align="center"><img src="README/1_Interfaz_Usuario.jpg"/></p>
+<p align="center"><img src="README/1_Pantalla_Inicial.jpg"/></p>
 
 # Tabla de contenidos:
 
@@ -22,66 +22,84 @@ El siguiente proyecto es un repositorio integral de **diseño y desarrollo de un
 
 ---
 
-- Estado del Proyecto: ![Porcentaje](https://img.shields.io/badge/Porcentaje-100%25-green)
-- Versión Actual: ![Versión](https://img.shields.io/badge/Versi%C3%B3n-3.6.3-%23AED6F1)
-- Uso de dependencias: ![Dependencias](https://img.shields.io/badge/Depentencias-MySQL%20Connector-%23F9853F)
-- Tipo de proyecto: ![Tipo de proyecto](https://img.shields.io/badge/Tipo%20de%20proyecto-Base%20de%20datos-%23EBDEF0)
-- Categoría del proyecto: ![Categoria del proyecto](https://img.shields.io/badge/Categor%C3%ADa-Cuidado%20de%20ropa-%23FAD7A0%20)
-- Tipo de base de datos: ![Tipo de base de datos](https://img.shields.io/badge/Base%20de%20datos-MySQL-%20%2382E0AA%20)
+- Estado del Proyecto: ![Porcentaje](https://img.shields.io/badge/Porcentaje-80%25-%23F1948A)
+- Versión Actual: ![Versión](https://img.shields.io/badge/Versi%C3%B3n-1.0.3-%23C39BD3%20)
+- Uso de dependencias: ![Dependencias](https://img.shields.io/badge/Dependencias-No-%237FB3D5)
+- Tipo de proyecto: ![Tipo de proyecto](https://img.shields.io/badge/Tipo%20de%20proyecto-P%C3%A1gina%20web-%20%2376D7C4%20)
+- Categoría del proyecto: ![Categoria del proyecto](https://img.shields.io/badge/Categor%C3%ADa-Servicios-%23F7DC6F)
+- Tipo de base de datos: ![Tipo de base de datos](https://img.shields.io/badge/Base%20de%20datos-MySQL-%23F0B27A%20)
 
 # Capturas de pantalla
 
 ---
 
-Las capturas de pantalla a continuación destacan puntos clave en el proceso de diseño y desarrollo del proyecto de la base de datos para "Tintorería Aries".
+A continuación se muestran capturas de pantalla que muestran el desarrollo y diseño inicial del sitio web destinado al Planetario Luis Enrique Erro del Instituto Politécnico Nacional (IPN). Estas capturas de pantalla proporcionan una representación visual de las diferentes secciones y características del sitio web a medida que evoluciona.
 
-## Capturas de pantalla diagrama de relación
+## Capturas de pantalla de página principal
 
-![Diagrama de clases](README/2_Diagrama_Clases.jpg)
+![Pantalla inicial](README/2_Pantalla_Inicial.jpg)
+![Pantalla inicial](README/3_Pantalla_Proposito.jpg)
+![Pantalla inicial](README/4_Areas_Servicio.jpg)
+![Pantalla inicial](README/5_Puntos_Importantes.png)
+![Pantalla inicial](README/6_Formas_Contacto.png)
+![Pantalla inicial](README/7_Solicitar_Tramite.png)
 
-## Capturas de pantalla de creación y carga de datos
+## Capturas de pantalla para solicitar horas de servicio
 
-![Creación estructural](README/3_Creacion_BD.jpg)
-![Carga de datos](README/4_Carga_Datos.jpg)
-
-## Capturas de pantalla de consultas
-
-![Consultas multitabla](README/5_Consultas_BD.jpg)
-![Diagrama entidad relacion](README/6_Diagrama_ER.jpg)
-
-## Capturas de pantalla de interfaz de usuario
-
-![Creación de interfaz](README/7_Interfaz_Java.jpg)
-![Módelo de interfaz](README/8_Modelo_Interfaz.jpg)
+![Pantalla inicial](README/8_Solicitar_Horas.jpg)
 
 # Descripción del proyecto
 
 ---
 
-El presente repositorio representa un proyecto integral de diseño y desarrollo de una base de datos dirigido a satisfacer las necesidades específicas de 'Tintorería Aries'. Este proyecto incluye una serie de componentes clave que se han diseñado y construido meticulosamente:
+Este repositorio alberga el desarrollo de una página web dedicada al Planetario Luis Enrique Erro del Instituto Politécnico Nacional (IPN) y su enfoque principal es el servicio social. La página web se ha diseñado para brindar una amplia gama de información y servicios útiles para los participantes del servicio social en el planetario.
 
-1. **Diseño Estructural de la Base de Datos:** He creado una estructura sólida que garantiza la eficiente organización y almacenamiento de datos críticos para la operación de la tintorería.
-2. **Carga de Datos:** Implemente un proceso de carga de datos cuidadosamente planificado para mantener la información actualizada y siempre disponible.
-3. **Consultas Multitabla:** Desarrolle consultas avanzadas que involucran múltiples tablas, lo que permite un acceso rápido y efectivo a la información, facilitando la toma de decisiones.
-4. **Constraints:** Establecí reglas y restricciones para asegurar la coherencia y confiabilidad de los datos almacenados.
-5. **Bitácora:** Implemente una bitácora de actividades que registra en detalle cada operación realizada en la base de datos, proporcionando un historial completo de eventos.
-6. **Función de Carga de Datos Brutos:** Se creó una función especializada para cargar datos en su forma original, antes de cualquier procesamiento, asegurando la integridad de la información.
-7. **Dos Métodos de Conexión a la Base de Datos:** Diseñe dos métodos distintos para acceder a la base de datos:
-   - La primera conexión se realiza a través de una interfaz de usuario desarrollada en JAVA, lo que brinda una experiencia amigable y eficiente para los usuarios.
-   - La segunda conexión se establece a través de una red, permitiendo el acceso desde dispositivos móviles. Además, implemente un sistema de monitoreo en tiempo real para supervisar y garantizar un óptimo rendimiento de la base de datos.
-     Este proyecto integral representa un paso significativo hacia la eficiencia y la gestión efectiva de datos para 'Tintorería Aries'. Las características implementadas aseguran que la tintorería cuente con una base de datos sólida y versátil que facilita la toma de decisiones y garantiza la satisfacción del cliente.
+**Secciones de la Página Web:**
+
+1. **Propósito de la Página Web:**
+
+   - Explicación del objetivo de la página web.
+   - Resaltar su importancia en el contexto del servicio social en el Planetario Luis Enrique Erro.
+
+2. **Áreas de Servicio:**
+
+   - Descripción detallada de las diferentes áreas de servicio disponibles en el planetario.
+   - Orientación para los participantes sobre cómo seleccionar un área de servicio que se ajuste a sus intereses y habilidades.
+
+3. **Información Importante:**
+
+   - Acceso al reglamento de servicio social en el planetario.
+   - Fechas clave para la realización de trámites y plazos importantes.
+
+4. **Formas de Contactar:**
+
+   - Información de contacto, incluyendo números de teléfono y direcciones de correo electrónico para preguntas y consultas.
+
+5. **Solicitud de Trámites:**
+
+   - Un formulario interactivo que permite a los participantes del servicio social solicitar trámites de manera eficiente. Los campos del formulario incluyen:
+     - Nombre completo.
+     - Número de boleta.
+     - Unidad académica.
+     - Correo electrónico.
+     - Número de teléfono.
+     - Explicación detallada del trámite que se desea realizar.
+
+6. **Seguimiento de Horas de Servicio Social:**
+
+   - Los participantes pueden consultar sus horas de servicio social acumuladas hasta la fecha.
+   - La página proporciona información sobre las horas restantes requeridas para completar el servicio social.
 
 # Herramientas utilizadas
 
 ---
 
-- [Microsoft Excel](https://www.microsoft.com/es-mx/microsoft-365/excel)
-- [Dia Diagram Editor](http://dia-installer.de/download/index.html.en)
+- [Visual Studio Code 1.83](https://code.visualstudio.com/)
 - [MySQL Workbench 8.0.34](https://dev.mysql.com/downloads/workbench/)
-- [Java 8](https://www.java.com/es/download/ie_manual.jsp)
-- [Apache NeatBeans 17](https://netbeans.apache.org/download/nb17/)
-- [MySQL Connector 8.0.28](https://dev.mysql.com/doc/relnotes/connector-j/8.0/en/news-8-0-28.html)
-- [RemoDB SQL Client MySQL, MsSQL](https://play.google.com/store/apps/details?id=com.kriskast.remotedb&hl=es_MX&gl=US) -[ManageEngine Applications Manager](https://www.manageengine.com/latam/applications_manager/monitoreo-de-base-de-datos.html)
+- [HTML](https://www.w3schools.com/html/)
+- [CSS](https://www.w3.org/Style/CSS/current-work)
+- [PHP](https://www.php.net/)
+- [Git](https://git-scm.com/)
 - [ColorCode](https://htmlcolorcodes.com/es/)
 - [Shields.io](https://shields.io/badges/static-badge)
 
@@ -89,29 +107,22 @@ El presente repositorio representa un proyecto integral de diseño y desarrollo 
 
 ---
 
-¡Bienvenido al repositorio del proyecto de base de datos de la 'Tintorería Aries'! A continuación, encontrarás una guía paso a paso para descargar, configurar la base de datos y comenzar a trabajar con este proyecto en NetBeans.
+Esta guía te proporcionará los pasos necesarios para descargar y visualizar la página web de este repositorio de GitHub. Asegúrate de seguir estas instrucciones para disfrutar de la información y los recursos proporcionados en la página web del Planetario Luis Enrique Erro.
 
 1. **Descargar el Repositorio:**
 
-   - Ve al repositorio en GitHub: ttps://github.com/Josmar360/Tintoreria_Aries_BD
+   - Ve al repositorio en GitHub: https://github.com/Josmar360/Planetario_Luis_Enrique_Erro
    - Haz clic en el botón verde "Code" y selecciona "Download ZIP".
    - Descomprime el archivo ZIP en la ubicación de tu elección.
 
-2. **Configurar la Base de Datos:**
+2. **Visualización de la Página Web:**
 
-   - Abre MySQL Workbench en tu máquina. Si aún no lo tienes instalado, puedes descargarlo desde el sitio oficial: Descargar MySQL Workbench.
-   - Inicia sesión en MySQL Workbench con tus credenciales.
-   - En MySQL Workbench, crea una nueva conexión a la base de datos utilizando la información proporcionada en el proyecto. Asegúrate de tener acceso al servidor MySQL.
-   - En la pestaña "Server" de MySQL Workbench, selecciona la nueva conexión creada y abre un nuevo script SQL.
-   - Copia y pega el script SQL proporcionado en el proyecto para crear la estructura de la base de datos. Ejecuta el script para crear las tablas y definir las restricciones.
-   - A continuación, carga los datos en la base de datos utilizando el proceso de carga de datos bruto. Esto asegurará que la información esté disponible y actualizada.
+   - Una vez que hayas extraído los archivos, abre la carpeta resultante.
+   - Busca el archivo llamado index.html. Este archivo es la página principal de la página web.
 
-3. **Iniciar el Proyecto en NetBeans:**
+3. **Abre la Página Web:**
 
-   - Abre NetBeans en tu máquina. Si aún no lo tienes instalado, puedes descargarlo desde el sitio oficial: Descargar NetBeans.
-   - Importa el proyecto desde el repositorio que descargaste previamente. Ve a "File" > "Open Project" y selecciona la carpeta del proyecto.
-   - Asegúrate de configurar las conexiones de base de datos en NetBeans según las especificaciones proporcionadas en el proyecto. Esto te permitirá acceder a la base de datos desde la aplicación.
-   - Abre el proyecto la cual te permitira ver la conexión a la base de datos de la 'Tintorería Aries'.
+   - Haz doble clic en el archivo index.html. Se abrirá en tu navegador web predeterminado.
 
 # Autor/es
 
@@ -123,6 +134,9 @@ El presente repositorio representa un proyecto integral de diseño y desarrollo 
 
 ---
 
-Este proyecto tiene como objetivo la aplicación práctica de los conocimientos en el diseño y desarrollo de una base de datos. A través de este proyecto, busco aplicar mis destrezas en un contexto real, creando una solución para una tintorería denominada 'Tintorería Aries'. Mi meta es no solo adquirir experiencia en la creación de bases de datos, sino también demostrar la utilidad y aplicabilidad de mi conocimientos en un escenario empresarial tangible.
+**Objetivo General:**
+El objetivo principal de esta página web es facilitar la comunicación, el acceso a información importante y la administración de trámites relacionados con el servicio social en el Planetario Luis Enrique Erro. A través de este recurso en línea, los participantes pueden acceder a información relevante de manera eficiente y seguir de cerca su progreso hacia la finalización de su servicio social.
+
+**Nota:** Esta presentación se basa en la descripción proporcionada y se puede personalizar según las necesidades del proyecto.
 
 - [Regresar al inicio](#presentación)
