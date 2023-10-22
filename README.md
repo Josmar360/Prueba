@@ -1,10 +1,10 @@
 # Presentación
 
-Este repositorio alberga el **diseño inicial y la primera versión del desarrollo de un sitio web** destinado al **Planetario Luis Enrique Erro del Instituto Politécnico Nacional (IPN).** El **propósito de este sitio web es proporcionar información acerca del servicio social** y, además, **visualizar las horas de servicio** de cada miembro del equipo de servicio social (es importante destacar que en esta primera versión, las horas aún no se encuentran disponibles).
+El propósito de este repositorio es llevar a cabo **una clasificación de los diversos tipos de rocas lunares.** Se logra mediante la **lectura de un archivo de texto** que contiene un registro detallado de estas rocas lunares. El código desarrollado tiene la **capacidad de procesar y clasificar estos registros en función de su tipo de roca.** Al finalizar, proporciona un informe que incluye un **recuento total de las rocas encontradas por cada tipo,** además de destacar el tipo de roca que tuvo el **conteo máximo y el mínimo** en el archivo de texto.
 
-<h1 align="center"> Página Web del Planetario Luis Enrique Erro para Servicio Social </h1>
+<h1 align="center"> Clasificación de tipos de rocas lunares "Proyecto Artemisa"</h1>
 <p align="center"> Pantalla principal de la interfaz </p>
-<p align="center"><img src="README/1_Pantalla_Inicial.jpg"/></p>
+<p align="center"><img src="README/1_Pantalla_Principal.png"/></p>
 
 # Tabla de contenidos:
 
@@ -22,84 +22,49 @@ Este repositorio alberga el **diseño inicial y la primera versión del desarrol
 
 ---
 
-- Estado del Proyecto: ![Porcentaje](https://img.shields.io/badge/Porcentaje-80%25-%23F1948A)
-- Versión Actual: ![Versión](https://img.shields.io/badge/Versi%C3%B3n-1.0.3-%23C39BD3%20)
-- Uso de dependencias: ![Dependencias](https://img.shields.io/badge/Dependencias-No-%237FB3D5)
-- Tipo de proyecto: ![Tipo de proyecto](https://img.shields.io/badge/Tipo%20de%20proyecto-P%C3%A1gina%20web-%20%2376D7C4%20)
-- Categoría del proyecto: ![Categoria del proyecto](https://img.shields.io/badge/Categor%C3%ADa-Servicios-%23F7DC6F)
-- Tipo de base de datos: ![Tipo de base de datos](https://img.shields.io/badge/Base%20de%20datos-MySQL-%23F0B27A%20)
+- Estado del proyecto: ![Porcentaje](https://img.shields.io/badge/Porcentaje-100%25-%2376D7C4)
+- Versión actual: ![Versión](https://img.shields.io/badge/Versi%C3%B3n-1.0.0-%23F7DC6F)
+- Uso de dependencias: ![Dependencias](https://img.shields.io/badge/Dependecias-No-%23C39BD3%20)
+- Tipo de proyecto: ![Tipo de proyecto](https://img.shields.io/badge/Tipo-Procesamiento%20y%20clasificaci%C3%B3n-%23BB8FCE)
+- Categoría del proyecto: ![Categoria del proyecto](https://img.shields.io/badge/Categor%C3%ADa-Astronom%C3%ADa-%23F5B7B1)
 
 # Capturas de pantalla
 
 ---
 
-A continuación se muestran capturas de pantalla que muestran el desarrollo y diseño inicial del sitio web destinado al Planetario Luis Enrique Erro del Instituto Politécnico Nacional (IPN). Estas capturas de pantalla proporcionan una representación visual de las diferentes secciones y características del sitio web a medida que evoluciona.
+Las capturas de pantalla a continuación destacan puntos clave en el procesamiento y clasificación de datos del "Proyecto Artemisa".
 
-## Capturas de pantalla de página principal
+## Capturas de pantalla del código en Python
 
-![Pantalla inicial](README/2_Pantalla_Inicial.jpg)
-![Pantalla inicial](README/3_Pantalla_Proposito.jpg)
-![Pantalla inicial](README/4_Areas_Servicio.jpg)
-![Pantalla inicial](README/5_Puntos_Importantes.png)
-![Pantalla inicial](README/6_Formas_Contacto.png)
-![Pantalla inicial](README/7_Solicitar_Tramite.png)
+![Declaración de variables](README/2_Codigo_Matriz.png)
+![Impresión de texto](README/3_Codigo_Impresion.png)
+![Resultado final](README/4_Pantalla_Texto.png)
 
-## Capturas de pantalla para solicitar horas de servicio
+## Capturas de pantalla del archivo de texto
 
-![Pantalla inicial](README/8_Solicitar_Horas.jpg)
+![Archivo de texto](README/5_Pantalla_Final.png)
 
 # Descripción del proyecto
 
 ---
 
-Este repositorio alberga el desarrollo de una página web dedicada al Planetario Luis Enrique Erro del Instituto Politécnico Nacional (IPN) y su enfoque principal es el servicio social. La página web se ha diseñado para brindar una amplia gama de información y servicios útiles para los participantes del servicio social en el planetario.
+El proyecto es un programa de **escaneo y análisis de rocas lunares implementado en Python.** Su función es **leer datos de un archivo de texto** que contiene información sobre rocas lunares, analizar las rocas para determinar su tipo (Basalto, Brecha, Highlands o Regolito) y **contar cuántas rocas de cada tipo** se encuentran en el archivo.
 
-**Secciones de la Página Web:**
-
-1. **Propósito de la Página Web:**
-
-   - Explicación del objetivo de la página web.
-   - Resaltar su importancia en el contexto del servicio social en el Planetario Luis Enrique Erro.
-
-2. **Áreas de Servicio:**
-
-   - Descripción detallada de las diferentes áreas de servicio disponibles en el planetario.
-   - Orientación para los participantes sobre cómo seleccionar un área de servicio que se ajuste a sus intereses y habilidades.
-
-3. **Información Importante:**
-
-   - Acceso al reglamento de servicio social en el planetario.
-   - Fechas clave para la realización de trámites y plazos importantes.
-
-4. **Formas de Contactar:**
-
-   - Información de contacto, incluyendo números de teléfono y direcciones de correo electrónico para preguntas y consultas.
-
-5. **Solicitud de Trámites:**
-
-   - Un formulario interactivo que permite a los participantes del servicio social solicitar trámites de manera eficiente. Los campos del formulario incluyen:
-     - Nombre completo.
-     - Número de boleta.
-     - Unidad académica.
-     - Correo electrónico.
-     - Número de teléfono.
-     - Explicación detallada del trámite que se desea realizar.
-
-6. **Seguimiento de Horas de Servicio Social:**
-
-   - Los participantes pueden consultar sus horas de servicio social acumuladas hasta la fecha.
-   - La página proporciona información sobre las horas restantes requeridas para completar el servicio social.
+1. **Lectura de archivo:** Lee un archivo de texto llamado "rocks.txt" que contiene información sobre las rocas lunares.
+2. **Visualización de contenido:** Lee y muestra el contenido del archivo de texto línea por línea.
+3. **Clasificación de rocas:** Clasifica cada roca lunar en una de las siguientes categorías: Basalto, Brecha, Highland o Regolito.
+4. **Conteo de rocas:** Cuenta cuántas rocas de cada tipo se encuentran en el archivo y muestra un mensaje indicando que se encontró una roca de un tipo específico.
+5. **Identificación de mínimo y máximo:** Determina el tipo de roca con el recuento máximo y mínimo.
+6. **Resumen de conteo total:** Muestra el recuento total de rocas de cada tipo.
+7. **Recuento de máximo y mínimo:** Muestra el número máximo y mínimo de un tipo de roca encontrado en el archivo, junto con su nombre correspondiente (Basaltos, Brechas, Highlands o Regolitos).
 
 # Herramientas utilizadas
 
 ---
 
-- [Visual Studio Code 1.83](https://code.visualstudio.com/)
-- [MySQL Workbench 8.0.34](https://dev.mysql.com/downloads/workbench/)
-- [HTML](https://www.w3schools.com/html/)
-- [CSS](https://www.w3.org/Style/CSS/current-work)
-- [PHP](https://www.php.net/)
-- [Git](https://git-scm.com/)
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [Python](https://www.python.org/)
+- [Archivos TXT](https://support.microsoft.com/es-es/windows/extensiones-de-nombre-de-archivo-comunes-en-windows-da4a4430-8e76-89c5-59f7-1cdbbc75cb01)
 - [ColorCode](https://htmlcolorcodes.com/es/)
 - [Shields.io](https://shields.io/badges/static-badge)
 
@@ -107,22 +72,47 @@ Este repositorio alberga el desarrollo de una página web dedicada al Planetario
 
 ---
 
-Esta guía te proporcionará los pasos necesarios para descargar y visualizar la página web de este repositorio de GitHub. Asegúrate de seguir estas instrucciones para disfrutar de la información y los recursos proporcionados en la página web del Planetario Luis Enrique Erro.
+¡Bienvenido al repositorio del proyecto de base de datos de la 'Tintorería Aries'! A continuación, encontrarás una guía paso a paso para descargar, configurar la base de datos y comenzar a trabajar con este proyecto en NetBeans.
 
 1. **Descargar el Repositorio:**
 
-   - Ve al repositorio en GitHub: https://github.com/Josmar360/Planetario_Luis_Enrique_Erro
+   - Ve al repositorio en GitHub: https://github.com/Josmar360/Tintoreria_Aries_BD
    - Haz clic en el botón verde "Code" y selecciona "Download ZIP".
    - Descomprime el archivo ZIP en la ubicación de tu elección.
 
-2. **Visualización de la Página Web:**
+2. **Iniciar el proyecto en Visual Studio Code:**
 
-   - Una vez que hayas extraído los archivos, abre la carpeta resultante.
-   - Busca el archivo llamado index.html. Este archivo es la página principal de la página web.
+   1. **Descargar e Instalar Visual Studio Code:**
 
-3. **Abre la Página Web:**
+      - Si aún no tienes Visual Studio Code instalado, puedes descargarlo desde el sitio web oficial de Visual Studio Code en https://code.visualstudio.com/. Sigue las instrucciones de instalación para tu sistema operativo.
 
-   - Haz doble clic en el archivo index.html. Se abrirá en tu navegador web predeterminado.
+   2. **Abrir Visual Studio Code:**
+
+      - Abre Visual Studio Code en tu computadora. Deberías ver la ventana principal de VSCode.
+
+   3. **Instalar la Extensión de Python (Opcional):**
+
+      - Si planeas trabajar con Python en VSCode, te recomiendo instalar la extensión de Python para obtener funcionalidades adicionales. Para hacerlo, sigue estos pasos:
+        1. Haz clic en la pestaña de "Extensions" (Extensiones) en el menú lateral izquierdo (ícono de cubos).
+        2. Busca "Python" en el campo de búsqueda.
+        3. Haz clic en la extensión "Python" proporcionada por Microsoft y haz clic en el botón "Install" (Instalar).
+
+   4. **Abrir una Carpeta en VSCode:**
+
+      - Para abrir una carpeta en VSCode, puedes hacer lo siguiente:
+        1. En la pantalla principal de VSCode, verás un ícono de carpeta en la esquina izquierda superior. Haz clic en este ícono o usa Ctrl+K Ctrl+O en Windows/Linux o Cmd+K Cmd+O en macOS.
+        2. Se abrirá un cuadro de diálogo que te permitirá seleccionar una carpeta en tu sistema. Navega hasta la carpeta que deseas abrir y selecciona la carpeta principal. Luego, haz clic en el botón "Select Folder" (Seleccionar Carpeta).
+
+   5. **Explorador de Carpetas:**
+
+      - Una vez que hayas seleccionado una carpeta, la carpeta se abrirá en el "Explorador de Carpetas" en la sección izquierda de VSCode. Aquí podrás ver y explorar todos los archivos y subcarpetas en esa carpeta.
+
+   6. **Crear o Abrir Archivos de Python:**
+
+      - Para trabajar con archivos Python en tu carpeta, puedes crear un nuevo archivo Python o abrir uno existente. Haz clic en el ícono de archivo en la parte superior del "Explorador de Carpetas" y selecciona "New File" (Nuevo Archivo) para crear uno nuevo o "Open File" (Abrir Archivo) para abrir un archivo existente.
+
+   7. **Escribir y Ejecutar Código:**
+      - Ahora estás listo para escribir y ejecutar código Python en VSCode. Puedes abrir un archivo Python existente o crear uno nuevo en la carpeta que has abierto. Luego, escribe tu código en el editor y utiliza las funcionalidades de VSCode, como la extensión de Python, para ejecutar y depurar tu código.
 
 # Autor/es
 
@@ -134,9 +124,6 @@ Esta guía te proporcionará los pasos necesarios para descargar y visualizar la
 
 ---
 
-**Objetivo General:**
-El objetivo principal de esta página web es facilitar la comunicación, el acceso a información importante y la administración de trámites relacionados con el servicio social en el Planetario Luis Enrique Erro. A través de este recurso en línea, los participantes pueden acceder a información relevante de manera eficiente y seguir de cerca su progreso hacia la finalización de su servicio social.
-
-**Nota:** Esta presentación se basa en la descripción proporcionada y se puede personalizar según las necesidades del proyecto.
+El propósito de este proyecto es adquirir habilidades en el escaneo y análisis de datos provenientes de archivos de texto. Para lograrlo, se recomienda tomar el curso "Introducción a Python para la Exploración Espacial", disponible en Microsoft Learn en colaboración con la NASA. Este curso se centra en la aplicación de Python para analizar datos relacionados con la exploración espacial. Para visualizar el curso [Da clic aquí](https://learn.microsoft.com/en-us/training/modules/introduction-python-nasa/)
 
 - [Regresar al inicio](#presentación)
