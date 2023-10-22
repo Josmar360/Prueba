@@ -4,7 +4,7 @@ El siguiente repositorio alberga **una colección de ejercicios propuestos** por
 
 <h1 align="center"> Portafolio de evidencias UPIICSOFT </h1>
 <p align="center"> Comunidad UPIICSOFT </p>
-<p align="center"><img src="README/1_Interfaz_Usuario.jpg"/></p>
+<p align="center"><img src="README/1_Portada.png"/></p>
 
 # Tabla de contenidos:
 
@@ -34,9 +34,9 @@ El siguiente repositorio alberga **una colección de ejercicios propuestos** por
 
 Las capturas de pantalla que verás a continuación son las más destacadas de los ejercicios realizados en el seno de la comunidad UPIICSOFT.
 
-## Capturas de pantalla del programa de palíndromos
-
 ## Capturas de pantalla del programa de cálculo factorial
+
+![Ejercico Factorial](README/2_Ejercicio_Factorial.png)
 
 # Descripción del proyecto
 
@@ -75,6 +75,6 @@ Este repositorio alberga una valiosa colección de ejercicios propuestos por la 
 
 ---
 
-"El propósito fundamental de este repositorio es llevar a cabo los desafíos planteados por la comunidad de UPIISOFT con el fin de construir un sólido portafolio de evidencias. Este portafolio se irá desarrollando a medida que se aborden cuestiones relacionadas con la programación en Python, la gestión de bases de datos y el análisis de datos. Cada problema o ejercicio abordado en estas áreas contribuirá al enriquecimiento de este conjunto de pruebas y logros.
+El propósito fundamental de este repositorio es llevar a cabo los desafíos planteados por la comunidad de UPIISOFT con el fin de construir un sólido portafolio de evidencias. Este portafolio se irá desarrollando a medida que se aborden cuestiones relacionadas con la programación en Python, la gestión de bases de datos y el análisis de datos. Cada problema o ejercicio abordado en estas áreas contribuirá al enriquecimiento de este conjunto de pruebas y logros.
 
 - [Regresar al inicio](#presentación)
