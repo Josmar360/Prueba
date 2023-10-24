@@ -1,80 +1,40 @@
-# Presentación
+<h1 align="center">Hi 👋, I'm Josmar Palomino Castelan</h1>
+<h3 align="center">A passionate about data analysis</h3>
 
-El siguiente repositorio alberga **una colección de ejercicios propuestos** por la comunidad **UPIICSOFT,** la cual forma parte de UPIICSA del Instituto Politécnico Nacional (IPN). Este repositorio incluirá una variedad de ejercicios que serán realizados de forma individual.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=josmar360&label=Profile%20views&color=0e75b6&style=flat" alt="josmar360" /> </p>
 
-<h1 align="center"> Portafolio de evidencias UPIICSOFT </h1>
-<p align="center"> Comunidad UPIICSOFT </p>
-<p align="center"><img src="README/1_Portada.png"/></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=josmar360" alt="josmar360" /></a> </p>
 
-# Tabla de contenidos:
+<p align="left"> <a href="https://twitter.com/josmar360_yt" target="blank"><img src="https://img.shields.io/twitter/follow/josmar360_yt?logo=twitter&style=for-the-badge" alt="josmar360_yt" /></a> </p>
 
----
+- 🔭 NASA International Space Applications Challenge [Planetary Tourism Office](https://www.spaceappschallenge.org/2023/find-a-team/team-quaso/?tab=project)
 
-- [Badges](#badges)
-- [Capturas de pantalla](#capturas-de-pantalla)
-- [Descripción del proyecto](#descripción-del-proyecto)
-- [Herramientas utilizadas](#herramientas-utilizadas)
-- [Guía de instalación](#guía-de-instalación)
-- [Autor](#autores)
-- [Información adicional](#información-adicional)
+- 🌱 I’m currently learning **Intermediate Python, Unreal**
 
-# Badges
+- 👯 Woman Game Jam 2023 [Prometeo Tlacuache](https://pinkchocoball.itch.io/prometeo)
 
----
+- 🤝 UPIICSOFT community [Portafolio UPIICSOFT](https://github.com/Josmar360/UPIICSOFT)
 
-- Estado del Proyecto: ![Porcentaje](https://img.shields.io/badge/Porcentaje-En%20proceso-%23F1948A%20)
-- Versión Actual: ![Versión](https://img.shields.io/badge/Versi%C3%B3n-1.0.2-%23D2B4DE%20%20)
-- Uso de dependencias: ![Dependencias](https://img.shields.io/badge/Dependencias-No-%23AED6F1%20)
-- Tipo de proyecto: ![Tipo de proyecto](https://img.shields.io/badge/Tipo-Python-%23A9DFBF)
-- Categoría del proyecto: ![Categoria del proyecto](https://img.shields.io/badge/Categor%C3%ADa-Portafolio%20de%20evidencia-%23FAD7A0%20)
+- 📫 How to reach me **josmargustavopalominocastelan@gmail.com**
 
-# Capturas de pantalla
+- ⚡ Fun fact **I am funny**
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/josmar360_yt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="josmar360_yt" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/josmar gustavo palomino castelán" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="josmar gustavo palomino castelán" height="30" width="40" /></a>
+<a href="https://kaggle.com/josmar360" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="josmar360" height="30" width="40" /></a>
+<a href="https://fb.com/josmar gustavo palomino castelan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="josmar gustavo palomino castelan" height="30" width="40" /></a>
+<a href="https://instagram.com/josmar360_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="josmar360_" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/josmar gustavo palomino castelan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="josmar gustavo palomino castelan" height="30" width="40" /></a>
+<a href="https://discord.gg/727301714306138263" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="727301714306138263" height="30" width="40" /></a>
+</p>
 
-Las capturas de pantalla que verás a continuación son las más destacadas de los ejercicios realizados en el seno de la comunidad UPIICSOFT.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> </p>
 
-## Capturas de pantalla del programa de cálculo factorial
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=josmar360&show_icons=true&locale=en&layout=compact" alt="josmar360" /></p>
 
-![Ejercico Factorial](README/2_Ejercicio_Factorial.png)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=josmar360&show_icons=true&locale=en" alt="josmar360" /></p>
 
-# Descripción del proyecto
-
----
-
-Este repositorio alberga una valiosa colección de ejercicios propuestos por la activa comunidad de UPIICSOFT, perteneciente a la prestigiosa UPIICSA, que forma parte del Instituto Politécnico Nacional (IPN). En este espacio, encontrarás una amplia gama de desafíos que se abordarán individualmente, contribuyendo así al enriquecimiento de habilidades y conocimientos en el ámbito tecnológico.
-
-# Herramientas utilizadas
-
----
-
-- [Visual Studio Code](https://code.visualstudio.com/)
-- [Python](https://www.python.org/)
-- [ColorCode](https://htmlcolorcodes.com/es/)
-- [Shields.io](https://shields.io/badges/static-badge)
-
-# Guía de instalación
-
----
-
-¡Bienvenido al repositorio de portafolio de evidencias de la comunidad UPIICSOFT! A continuación, te proporcionaremos una detallada guía paso a paso que te permitirá descargar y configurar la mayoría de nuestros proyectos.
-
-1. **Descargar el Repositorio:**
-
-   - Ve al repositorio en GitHub: https://github.com/Josmar360/UPIICSOFT
-   - Haz clic en el botón verde "Code" y selecciona "Download ZIP".
-   - Descomprime el archivo ZIP en la ubicación de tu elección.
-
-# Autor/es
-
----
-
-[Josmar Gustavo Palomino Castelan](https://linktr.ee/josmar360)
-
-# Información adicional
-
----
-
-El propósito fundamental de este repositorio es llevar a cabo los desafíos planteados por la comunidad de UPIISOFT con el fin de construir un sólido portafolio de evidencias. Este portafolio se irá desarrollando a medida que se aborden cuestiones relacionadas con la programación en Python, la gestión de bases de datos y el análisis de datos. Cada problema o ejercicio abordado en estas áreas contribuirá al enriquecimiento de este conjunto de pruebas y logros.
-
-- [Regresar al inicio](#presentación)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=josmar360&" alt="josmar360" /></p>
