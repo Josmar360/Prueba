@@ -44,7 +44,7 @@
 </div>
 
 <!-- Sección "About Me" -->
-<div style="background-color: #1f2124;">
+<div style="background-color: #000000;">
     <picture>
         <img src="https://cdn.discordapp.com/attachments/1167963830056407060/1167984837337038949/Nave_espacial.gif?ex=65501da5&is=653da8a5&hm=ad3ef5b2ff6a9e1b72c87982f161697e82fac36e0600e949c39e0e70d6edfa8b" width="40px" align="left" alt="Nave espacial" />
     </picture>
