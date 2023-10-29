@@ -22,7 +22,11 @@
 </div>
 
 <!-- Imagen de portada -->
-![Imagen de portada](README/Portada.gif)
+<!-- Imagen de portada -->
+<div align="center">
+    <img src="https://cdn.discordapp.com/attachments/1167963830056407060/1167991467822809148/Portada.gif?ex=655023d2&is=653daed2&hm=b61aa6e8248b8d9fd6d14004a7e6051045a8dcf6386bcd4a7ed57eec139f4208" alt="Imagen de portada" />
+</div>
+
 
 <!-- Barra de colores nuevamente -->
 <div align="center">
