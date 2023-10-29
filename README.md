@@ -1,3 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+  body {
+    background-color: #EFEFEF; /* Cambia este valor al color que desees */
+  }
+</style>
+</head>
+<body>
+
 <!-- Barra de colores -->
 <div align="center">
     <a href="https://discord.gg/KxQU8Jtzm8">
@@ -22,11 +33,8 @@
 </div>
 
 <!-- Imagen de portada -->
-<!-- Imagen de portada -->
-<div align="center">
-    <img src="https://cdn.discordapp.com/attachments/1167963830056407060/1167991467822809148/Portada.gif?ex=655023d2&is=653daed2&hm=b61aa6e8248b8d9fd6d14004a7e6051045a8dcf6386bcd4a7ed57eec139f4208" alt="Imagen de portada" />
-</div>
 
+![Imagen de portada](README/Portada.gif)
 
 <!-- Barra de colores nuevamente -->
 <div align="center">
@@ -36,23 +44,24 @@
 </div>
 
 <!-- Sección "About Me" -->
-<div style="background-color: #f0f0f0; padding: 20px; border-radius: 10px;">
+<div>
     <picture>
         <img src="https://cdn.discordapp.com/attachments/1167963830056407060/1167984837337038949/Nave_espacial.gif?ex=65501da5&is=653da8a5&hm=ad3ef5b2ff6a9e1b72c87982f161697e82fac36e0600e949c39e0e70d6edfa8b" width="40px" align="left" alt="Nave espacial" />
     </picture>
     <h3 align="left" style="color: #FFFF00;">ABOUT ME</h3>
     <img align="right" src="https://cdn.discordapp.com/attachments/1167963830056407060/1167984547166695504/earth-world.gif?ex=65501d60&is=653da860&hm=3ca00b15f7f306c810e3571aca6309097f11062a4ffb904064366ddfdce936b2" width="50%" style="margin-right: 20px" alt="Earth World" />
 
-    **I am a computer science student**
+**I am a computer science student**
 
-    - 🌱 I’m currently learning **Intermediate Python, Unreal**
-    - 🔭 NASA International Space Applications Challenge [Planetary Tourism Office](https://www.spaceappschallenge.org/2023/find-a-team/team-quaso/?tab=project)
-    - 👯 Woman Game Jam 2023 [Prometeo Tlacuache](https://pinkchocoball.itch.io/prometeo)
-    - 🤝 UPIICSOFT community [Portafolio UPIICSOFT](https://github.com/Josmar360/UPIICSOFT)
-    - 👨‍💻 All of my projects are available at [https://github.com/Josmar360](https://github.com/Josmar360)
-    - 💬 Ask me about **Astronomy, SQL, IA**
-    - 📫 How to reach me **josmargustavopalominocastelan@gmail.com**
-    - ⚡ Fun fact **I am funny**
+- 🌱 I’m currently learning **Intermediate Python, Unreal**
+- 🔭 NASA International Space Applications Challenge [Planetary Tourism Office](https://www.spaceappschallenge.org/2023/find-a-team/team-quaso/?tab=project)
+- 👯 Woman Game Jam 2023 [Prometeo Tlacuache](https://pinkchocoball.itch.io/prometeo)
+- 🤝 UPIICSOFT community [Portafolio UPIICSOFT](https://github.com/Josmar360/UPIICSOFT)
+- 👨‍💻 All of my projects are available at [https://github.com/Josmar360](https://github.com/Josmar360)
+- 💬 Ask me about **Astronomy, SQL, IA**
+- 📫 How to reach me **josmargustavopalominocastelan@gmail.com**
+- ⚡ Fun fact **I am funny**
+
 </div>
 
 <!-- Barra de colores nuevamente -->
@@ -101,4 +110,10 @@
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=josmar360" alt="GitHub Profile Trophy" style="color: #FF0000;" />
     </a>
+    <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=josmar360&show_icons=true&locale=en&layout=compact" alt="josmar360" /></p>
+    <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=josmar360&" alt="josmar360" /></p>
+    <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=josmar360&show_icons=true&locale=en" alt="josmar360" /></p>
 </div>
+
+</body>
+</html>
